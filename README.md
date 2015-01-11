@@ -7,3 +7,17 @@ Ethereum &amp; Nxt smart contract technology using peer-to-peer protocol to prov
 Only a few components parts provided here most of the code base is hosted on a private repo here : https://bitbucket.org/innovator256/pokereum
 
 Complete opensource date to be determined by DAO member consensus
+
+Tech Stack
+==========
+
+node webkit <br/>
+Nodejs<br/>
+Angularjs<br/>
+jQuery<br/>
+html5 framework: phaserjs<br/>
+css3&html5<br/>
+webrtc / peerjs<br/>
+turn, stun servers // hole punching and routing with webrtc<br/>
+Ethereum javascript bindings<br/>
+Ethereum solidity<br/>
