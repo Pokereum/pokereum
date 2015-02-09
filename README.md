@@ -24,6 +24,6 @@ jQuery<br/>
 html5 framework: phaserjs<br/>
 css3&html5<br/>
 webrtc / peerjs<br/>
-turn, stun servers // hole punching and routing with webrtc<br/>
+Telehash // Nat hole punching and routing via UDP and RTC<br/>
 Ethereum javascript bindings<br/>
 Ethereum solidity<br/>
