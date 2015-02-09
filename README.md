@@ -6,7 +6,7 @@ Ethereum &amp; Nxt smart contract technology using peer-to-peer protocol to prov
 
 Whitepaper
 ==========
-https://github.com/innovator256/pokereum/wiki/Whitepaper
+Under peer review here :: https://docs.google.com/document/d/1vxjxE-7QMAvo95UzhWftWJ3Ke_gAoNLTQQEudNeUQeY/edit
 
 
 
