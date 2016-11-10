@@ -1,29 +1,93 @@
 Pokereum
 ========
+Ethereum using Telehash RTC, cryptography and smart contract technology to provide a secure, efficient, provably fair and decentralized global poker. This repository is a largely a resource for documentation and ponter to other relevant components http://www.pokereum.io 
 
-Ethereum &amp; Nxt smart contract technology using peer-to-peer protocol to provide a secure, efficient, provably fair and decentralized global poker.
+
+### Table of Contents
+
+* [Whitepaper](#Whitepaper)
+* [Demo](#Demo)
+* [Pokereum RTC](#Pokereum-RTC)
+* [Shadow Poker](Shadow-Poker)
+* [Network](#Network)
+* [client Downloads](#Downloads)
+* [wiki](#wiki)
+* [Tests](#Tests)
+* [Tech Stack](#Tech-Stack)
 
 
+
+
+
+
+
+#<a name="whitepaper"></a>
 Whitepaper
 ==========
-Under peer review here :: https://docs.google.com/document/d/1vxjxE-7QMAvo95UzhWftWJ3Ke_gAoNLTQQEudNeUQeY/edit
+Under peer review here :: https://github.com/Pokereum/pokereum/wiki/Whitepaper
 
 
 
 Only a few components parts provided here most of the code base is hosted on a private repo here : https://bitbucket.org/innovator256/pokereum
 
-Complete opensource date to be determined by DAO member consensus
 
+#<a name="Demo"></a>
+Demo
+=====
+
+
+
+
+#<a name="Pokereum-RTC"></a>
+Pokereum RTC
+==========
+
+
+
+
+#<a name="Shadow-Poker"></a>
+Shadow Poker
+==========
+
+
+
+
+
+#<a name="Network"></a>
+Network
+==========
+
+
+
+
+#<a name="Downloads"></a>
+Client Downloads
+==========
+
+
+
+
+#<a name="wiki"></a>
+wiki
+==========
+
+
+
+#<a name="Tests"></a>
+Tests
+======
+
+
+
+#<a name="Tech-Stack"></a>
 Tech Stack
 ==========
 
-node webkit <br/>
+Electron <br/>
 Nodejs<br/>
-Angularjs<br/>
 jQuery<br/>
 html5 framework: phaserjs<br/>
-css3&html5<br/>
-webrtc / peerjs<br/>
 Telehash // Nat hole punching and routing via UDP and RTC<br/>
-Ethereum javascript bindings<br/>
+Ethereum whisper/IPFS<br/>
 Ethereum solidity<br/>
+Hashing, encryptions, secret sharing
