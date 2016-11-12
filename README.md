@@ -22,76 +22,76 @@ Ethereum using Telehash RTC, cryptography and smart contract technology to provi
 
 
 
-#<a name="whitepaper"></a>
-##Whitepaper
-==========
-Under peer review here :: https://github.com/Pokereum/pokereum/wiki/Whitepaper      
+#<a name="whitepaper"></a>     
+##Whitepaper    
+===    
+Under peer review here :: https://github.com/Pokereum/pokereum/wiki/Whitepaper           
 
 
 
-Only a few components parts provided here most of the code base is hosted on a private repo here : https://bitbucket.org/innovator256/pokereum
+Only a few components parts provided here most of the code base is hosted on a private repo here : https://bitbucket.org/innovator256/pokereum    
 
 
-#<a name="Demo"></a>
-##Demo       
-=====
-Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2CAgQ) 
-
-
-
-
-#<a name="Pokereum-RTC"></a>
-##Pokereum RTC Multi-Party Computation      
-==========      
+#<a name="Demo"></a>   
+##Demo           
+===    
+Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2CAgQ)        
 
 
 
 
- #<a name="Security & Data Athentication"></a>     
- ##Security & Data Athentication         
- ==============================     
+#<a name="Pokereum-RTC"></a>   
+##Pokereum RTC Multi-Party Computation         
+===       
+
+
+
+
+ #<a name="Security & Data Athentication"></a>        
+ ##Security & Data Athentication             
+ ===    
  
  
  
  
 
-#<a name="Shadow-Poker"></a>
-##Shadow Poker     
-==========       
+#<a name="Shadow-Poker"></a>     
+##Shadow Poker          
+===          
 
 
 
 
 
-#<a name="Network"></a>
-##Network               
-==========        
+#<a name="Network"></a>    
+##Network                   
+===            
 
 
 
 
-#<a name="Downloads"></a>
-##Client Downloads       
-===================     
+#<a name="Downloads"></a>    
+##Client Downloads             
+===        
 
 
 
 
-#<a name="wiki"></a>
-##wiki    
-==========    
+#<a name="wiki"></a>     
+##wiki         
+===         
 
 
 
-#<a name="Tests"></a>
-##Tests     
-======    
+#<a name="Tests"></a>      
+##Tests           
+===       
 
 
 
-#<a name="Tech-Stack"></a>
-##Tech Stack      
-==========      
+#<a name="Tech-Stack"></a>     
+##Tech Stack           
+===        
 
 Electron <br/>
 Nodejs<br/>
