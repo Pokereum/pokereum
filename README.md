@@ -48,7 +48,7 @@ Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2
 
 
  #<a name="SecurityDataAthentication"></a>        
- ##Security & Data Athentication             
+ ##Security and Data Athentication             
  ===    
  
  
