@@ -11,8 +11,8 @@ Ethereum using Telehash RTC, cryptography and smart contract technology to provi
 * [Security & Data Athentication](#SecurityDataAthentication)    
 * [Shadow Poker](Shadow-Poker)
 * [Network](#Network)
-* [client Downloads](#Downloads)
-* [wiki](#wiki)
+* [Client Downloads](#Downloads)
+* [Wiki](#wiki)
 * [Tests](#Tests)
 * [Tech Stack](#Tech-Stack)
 
@@ -55,11 +55,11 @@ Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2
 
 
 -  
--  
+-      
       
-      
-
-
+     
+       
+       
  #<a name="SecurityDataAthentication"></a>                 
  ##Security and Data Athentication             
 
