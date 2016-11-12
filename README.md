@@ -23,9 +23,9 @@ Ethereum using Telehash RTC, cryptography and smart contract technology to provi
 
 
 #<a name="whitepaper"></a>
-Whitepaper
+##Whitepaper
 ==========
-Under peer review here :: https://github.com/Pokereum/pokereum/wiki/Whitepaper
+Under peer review here :: https://github.com/Pokereum/pokereum/wiki/Whitepaper      
 
 
 
@@ -33,7 +33,7 @@ Only a few components parts provided here most of the code base is hosted on a p
 
 
 #<a name="Demo"></a>
-Demo
+##Demo       
 =====
 Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2CAgQ) 
 
@@ -41,57 +41,57 @@ Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2
 
 
 #<a name="Pokereum-RTC"></a>
-Pokereum RTC Multi-Party Computation
-==========
+##Pokereum RTC Multi-Party Computation      
+==========      
 
 
 
 
- #<a name="Security & Data Athentication"></a>
- Security & Data Athentication     
- ==============================
+ #<a name="Security & Data Athentication"></a>     
+ ##Security & Data Athentication         
+ ==============================     
  
  
  
  
 
 #<a name="Shadow-Poker"></a>
-Shadow Poker
-==========
+##Shadow Poker     
+==========       
 
 
 
 
 
 #<a name="Network"></a>
-Network
-==========
+##Network               
+==========        
 
 
 
 
 #<a name="Downloads"></a>
-Client Downloads
-==========
+##Client Downloads       
+===================     
 
 
 
 
 #<a name="wiki"></a>
-wiki
-==========
+##wiki    
+==========    
 
 
 
 #<a name="Tests"></a>
-Tests
-======
+##Tests     
+======    
 
 
 
 #<a name="Tech-Stack"></a>
-Tech Stack
-==========
+##Tech Stack      
+==========      
 
 Electron <br/>
 Nodejs<br/>
