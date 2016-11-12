@@ -40,14 +40,14 @@ Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2
 
 
 
-#<a name="Pokereum-RTC"></a>   
+#<a name="Pokereum-RTC"></a>                
 ##Pokereum RTC Multi-Party Computation         
 ===       
 
 
 
 
- #<a name="SecurityDataAthentication"></a>        
+ #<a name="SecurityDataAthentication"></a>                 
  ##Security and Data Athentication             
  ===    
  
