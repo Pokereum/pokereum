@@ -50,6 +50,7 @@ Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2
 
 #<a name="Routing"></a>
 ##Routing      
+Routing library usinggraceful degradation for the most efficient available transport for signaling node for uplinking on the pokereum Network    
 
 Routing Library : [Pokereum-Telehash-Router](https://github.com/Pokereum/Pokereum-Telehash-Router)
 
@@ -67,6 +68,7 @@ Routing Library : [Pokereum-Telehash-Router](https://github.com/Pokereum/Pokereu
 
 #<a name="Pokereum-RTC"></a>                
 ##Pokereum RTC Multi-Party Computation    
+Multi-Party-Computation-RTC represents "poc 1" of the Pokereum real time game state synchrony and private computation between poker nodes on the pokereum network. Note there is no actual security in this version; i.e state signing, private encryption and authentication which is partially accomplished with integration of the Shadow Poker protocol     
 
 [Pokereum-Multi-Party-Computation-RTC](https://github.com/Pokereum/Pokereum-Multi-Party-Computation-RTC)
 
