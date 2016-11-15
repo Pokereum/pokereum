@@ -7,6 +7,7 @@ Ethereum using Telehash RTC, cryptography and smart contract technology to provi
 
 * [Whitepaper](#Whitepaper)
 * [Demo](#Demo)
+* [Routing](#Routing)
 * [Pokereum RTC Multi-Party Computation](#Pokereum-RTC)
 * [Security & Data Athentication](#SecurityDataAthentication)    
 * [Shadow Poker](Shadow-Poker)
@@ -38,11 +39,25 @@ Only a few components parts provided here most of the code base is hosted on a p
 
 #<a name="Demo"></a>   
 ##Demo
-Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2CAgQ)        
+Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2CAgQ)      
+
 
 
 -  
+-     
+
+
+
+#<a name="Routing"></a>
+##Routing   
+
+
+
+
+
+
 -  
+-     
       
       
 
