@@ -49,7 +49,9 @@ Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2
 
 
 #<a name="Routing"></a>
-##Routing   
+##Routing      
+
+Routing Library : [Pokereum-Telehash-Router](https://github.com/Pokereum/Pokereum-Telehash-Router)
 
 
 
@@ -64,8 +66,9 @@ Preview implementation : [P2p UX Demo:]( https://www.youtube.com/watch?v=ydqsLi2
 
 
 #<a name="Pokereum-RTC"></a>                
-##Pokereum RTC Multi-Party Computation         
+##Pokereum RTC Multi-Party Computation    
 
+[Pokereum-Multi-Party-Computation-RTC](https://github.com/Pokereum/Pokereum-Multi-Party-Computation-RTC)
 
 
 
